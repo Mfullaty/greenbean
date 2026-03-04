@@ -81,7 +81,7 @@ export function Navbar() {
             <div
                 className={cn(
                     "overflow-hidden transition-all duration-300 md:hidden",
-                    isOpen ? "max-h-96 border-b border-border" : "max-h-0"
+                    isOpen ? "max-h-100 border-b border-border" : "max-h-0"
                 )}
             >
                 <div className="bg-background/95 backdrop-blur-xl px-4 pb-6 pt-2 space-y-1">
