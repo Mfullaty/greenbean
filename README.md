@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://greenbean.vercel.app" target="_blank">🌐 Live Site</a> •
+  <a href="https://greenbeanproducts.vercel.app" target="_blank">🌐 Live Site</a> •
   <a href="https://www.instagram.com/yournutritionist8" target="_blank">📸 Instagram</a> •
   <a href="mailto:hellogreenbeanwellness@gmail.com">✉️ Email Us</a>
 </p>
